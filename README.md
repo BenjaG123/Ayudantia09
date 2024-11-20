@@ -1,2 +1,4 @@
 # Ayudantia 9
-# Francisco Lizama / Benjamin Garcés
+## Integrantes (nombre | usuario)
+- Benjamin Garces | BenjaG123
+- Francisco Lizama | Fran416
